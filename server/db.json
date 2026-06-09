@@ -1,0 +1,146 @@
+{
+  "user": {
+    "name": "Suraj",
+    "carbonScore": 0,
+    "sustainabilityScore": 250,
+    "streak": 5,
+    "lastLogDate": "2026-06-08",
+    "treesPlanted": 3,
+    "waterSavedLiters": 80,
+    "transportKmSaved": 25,
+    "challengesCompleted": 6,
+    "unlockedBadges": [
+      {
+        "id": "eco-pioneer",
+        "title": "Eco Pioneer",
+        "description": "Welcome to CarbonWise! Created your profile.",
+        "icon": "Compass",
+        "date": "2026-06-08"
+      }
+    ],
+    "calculationsHistory": [
+      {
+        "date": "2026-06-01",
+        "scores": {
+          "transport": 2.4,
+          "electricity": 1.8,
+          "food": 1.5,
+          "waste": 0.8,
+          "total": 6.5
+        }
+      }
+    ]
+  },
+  "challenges": [
+    {
+      "id": "challenge-1",
+      "title": "Green Commute",
+      "description": "Take public transit, walk, or ride a bicycle instead of driving your car today.",
+      "category": "transport",
+      "points": 40,
+      "completed": false,
+      "icon": "Bike"
+    },
+    {
+      "id": "challenge-2",
+      "title": "Solar Charging Only",
+      "description": "Charge your primary electronic devices using natural daylight or energy-saving modes only.",
+      "category": "electricity",
+      "points": 20,
+      "completed": false,
+      "icon": "Sun"
+    },
+    {
+      "id": "challenge-3",
+      "title": "Veg-Day Protocol",
+      "description": "Adopt a complete plant-based meal plan today (zero red meat/poultry).",
+      "category": "food",
+      "points": 35,
+      "completed": false,
+      "icon": "Leaf"
+    },
+    {
+      "id": "challenge-4",
+      "title": "Zero Waste Lunch",
+      "description": "Use only reusable containers and utensils, leaving behind zero trash.",
+      "category": "waste",
+      "points": 30,
+      "completed": false,
+      "icon": "Trash2"
+    },
+    {
+      "id": "challenge-5",
+      "title": "H2O Efficiency Mode",
+      "description": "Keep shower duration under 5 minutes and avoid running tap water unnecessarily.",
+      "category": "waste",
+      "points": 25,
+      "completed": false,
+      "icon": "Droplet"
+    }
+  ],
+  "leaderboard": [
+    {
+      "name": "Nova Green",
+      "sustainabilityScore": 920,
+      "carbonScore": 1.8,
+      "streak": 22,
+      "badgeCount": 7,
+      "rank": 1,
+      "isCurrentUser": false
+    },
+    {
+      "name": "Kaelen Stark",
+      "sustainabilityScore": 790,
+      "carbonScore": 2.2,
+      "streak": 14,
+      "badgeCount": 5,
+      "rank": 2,
+      "isCurrentUser": false
+    },
+    {
+      "name": "Aria Vance",
+      "sustainabilityScore": 640,
+      "carbonScore": 2.9,
+      "streak": 9,
+      "badgeCount": 4,
+      "rank": 3,
+      "isCurrentUser": false
+    },
+    {
+      "name": "Suraj",
+      "sustainabilityScore": 250,
+      "carbonScore": 6.5,
+      "streak": 5,
+      "badgeCount": 1,
+      "rank": 4,
+      "isCurrentUser": true
+    },
+    {
+      "name": "Elena Rostova",
+      "sustainabilityScore": 210,
+      "carbonScore": 6.8,
+      "streak": 3,
+      "badgeCount": 1,
+      "rank": 5,
+      "isCurrentUser": false
+    },
+    {
+      "name": "Tariq Malik",
+      "sustainabilityScore": 180,
+      "carbonScore": 7.2,
+      "streak": 2,
+      "badgeCount": 1,
+      "rank": 6,
+      "isCurrentUser": false
+    },
+    {
+      "name": "Zoe Chen",
+      "sustainabilityScore": 150,
+      "carbonScore": 7.8,
+      "streak": 1,
+      "badgeCount": 0,
+      "rank": 7,
+      "isCurrentUser": false
+    }
+  ]
+}
