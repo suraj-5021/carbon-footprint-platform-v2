@@ -45,6 +45,13 @@ The goal of this project is to combine technology and sustainability to promote 
 
 ---
 
+
+### Calculator
+![Calculator](./screenshots/calculator.png)
+
+### Results
+![Results](./screenshots/result.png)
+
 ## ⚙️ Getting Started
 
 ### Clone the Repository
