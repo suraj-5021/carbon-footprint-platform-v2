@@ -1,4 +1,4 @@
-
+![Banner](./screenshots/homepage.png)
 
 # 🌍 Carbon Footprint Platform
 
